@@ -1,0 +1,8 @@
+Klasifikuesi i formave nga:
+Author: Fitim Halimi
+
+Si fillim zgjidhja duhet te behet "build" "Sistem operativ Linux". 
+Pasi te behet build:
+Ne folderin "result" dalin rezultated e imazheve te klasifikuara.
+Ne folderin "test" gjenden te gjitha imazhet qe do te hyjn ne proces per detektim te formave dhe klasifikim.
+Ne folderin "src" gjenden kodet per detektim te formave dhe klasifikimin e tyre.
