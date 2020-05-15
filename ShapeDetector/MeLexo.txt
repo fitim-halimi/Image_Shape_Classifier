@@ -2,7 +2,16 @@ Klasifikuesi i formave nga:
 Author: Fitim Halimi
 
 Si fillim zgjidhja duhet te behet "build" "Sistem operativ Linux". 
-Pasi te behet build:
+You have to build the solution with Linux operating System.
+
+Pasi te behet build (After you build the program):
+
+In the folder named: Results, you will have the classified images.
 Ne folderin "result" dalin rezultated e imazheve te klasifikuara.
-Ne folderin "test" gjenden te gjitha imazhet qe do te hyjn ne proces per detektim te formave dhe klasifikim.
+
+In the folder named "test", the images you want  to classify are placed. You can acquire the images depending on your needs.
+Ne folderin "test" gjenden te gjitha imazhet qe do te hyjn ne proces per detektim te formave dhe klasifikim,
+ne rastin tim kam nxjerre disa modele qe me jane pershtatur ne detyren e dhene.
+
+In the folder named "src" you have the source codes.
 Ne folderin "src" gjenden kodet per detektim te formave dhe klasifikimin e tyre.
